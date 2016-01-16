@@ -17,8 +17,8 @@ To save time in the future I'll collect those answers here, in a very condensed 
 		- [Reset 3D cursor position](#reset-3d-cursor-position)
 	- [Objects](#objects)
 		- [Measure 3D object size](#measure-3d-object-size)
-		- [Toggle Edit / Object mode](#toggle-edit-object-mode)
-		- [Select all / deselect all](#select-all-deselect-all)
+		- [Toggle between Edit and Object mode](#toggle-between-edit-and-object-mode)
+		- [Select all and deselect all](#select-all-and-deselect-all)
 		- [Select faces around](#select-faces-around)
 		- [Bridge faces together](#bridge-faces-together)
 
@@ -43,10 +43,10 @@ In the right hand panel, under the scene tab.
 ### Measure 3D object size
 `N` while in object mode, you will see dimensions in the transform panel.
 
-### Toggle Edit / Object mode
+### Toggle between Edit and Object mode
 `Tab`
 
-### Select all / deselect all
+### Select all and deselect all
 `A`
 
 ### Select faces around
