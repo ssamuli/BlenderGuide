@@ -10,7 +10,8 @@ To save time in the future I'll collect those answers here, in a very condensed 
 
 - [Blender Guide for Beginners](#blender-guide-for-beginners)
 - [Table of contents](#table-of-contents)
-	- [Interface](#interface)
+	- [Settings](#settings)
+		- [Emulate numpad](#emulate-numpad)
 		- [Change to metric units](#change-to-metric-units)
 	- [View](#view)
 		- [Wireframe mode](#wireframe-mode)
@@ -24,7 +25,12 @@ To save time in the future I'll collect those answers here, in a very condensed 
 
 <!-- /TOC -->
 
-## Interface
+## Settings
+
+### Emulate numpad
+A lot of shortcuts need numpad, and I don't have numpad on any of my keyboards. Remember to click save user settings after you turn it on.
+
+![Emulate numpad](images/emulate_numpad.png)
 
 ### Change to metric units
 In the right hand panel, under the scene tab.
