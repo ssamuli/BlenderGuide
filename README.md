@@ -16,6 +16,7 @@ To save time in the future I'll collect those answers here, in a very condensed 
 	- [View](#view)
 		- [Wireframe mode](#wireframe-mode)
 		- [Reset 3D cursor position](#reset-3d-cursor-position)
+		- [Camera fly mode](#camera-fly-mode)
 	- [Objects](#objects)
 		- [Measure 3D object size](#measure-3d-object-size)
 		- [Toggle between Edit and Object mode](#toggle-between-edit-and-object-mode)
@@ -44,6 +45,9 @@ In the right hand panel, under the scene tab.
 
 ### Reset 3D cursor position
 `Shift-C`
+
+### Camera fly mode
+`Shift-F` and then use WASD+mouse to fly.
 
 ## Objects
 ### Measure 3D object size
